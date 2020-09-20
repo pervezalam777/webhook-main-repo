@@ -1,4 +1,5 @@
 {
   "welcomeLabel":"Welcome to webhooks",
-  "btnSubmit":"Submit"
+  "btnSubmit":"Submit",
+  "nameLabel":"Your name"
 }
